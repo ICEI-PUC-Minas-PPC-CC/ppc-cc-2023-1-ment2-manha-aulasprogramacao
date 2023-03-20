@@ -2,6 +2,8 @@
 
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
+Atualmente, tem se notado uma falta imensa de profissionais nas áreas de tecnologia no Brasil, especialmente programadores. Nosso grupo busca dar a oportunidade para jovens descobrirem um amor pela programação, ensinando e desafiando-os, a fim de que alguns tomem gosto, considerem em se aprofundar, e possivelmente seguirem futuramente como profissão.
+
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
 
