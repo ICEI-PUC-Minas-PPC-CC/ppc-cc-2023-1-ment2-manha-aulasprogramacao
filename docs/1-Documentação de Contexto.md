@@ -3,9 +3,10 @@
 Atualmente, tem se notado uma falta imensa de profissionais nas áreas de tecnologia no Brasil, especialmente programadores. Nosso grupo busca dar a oportunidade para jovens descobrirem um amor pela programação, ensinando e desafiando-os, a fim de que tomem gosto, considerem em se aprofundar, e possivelmente seguirem futuramente como profissão.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Diante a crescente indústria de tecnologia da informação, nota-se um enorme déficit de profissionais equipados para suprirem as cargas existentes no mercado brasileiro. Anualmente, o Brasil forma cerca de 53 mil pessoas na área da tecnologia, porém, estima-se que nos próximos 5 anos haverá a criação de quase 800 mil novos postos, abrindo uma falta a mais de 532 mil pessoas capacitadas para atuar na área. Criando uma barreira imensa para o desenvolvimento de tecnologias inovadoras no país.
+O aparente desinteresse existente pela área de TI por jovens é devido, em partes, por um desconhecimento geral da área, sigmas sociais, e concentração monumental de homens brancos na área, tornando-a mais intimidante do que realmente é, desviando possíveis profissionais.
+
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
