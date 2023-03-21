@@ -6,9 +6,9 @@ De acordo com os dados mais recentes do IBGE, atualmente são cerca de 10 milhõ
 
 Um estudo feito pela Brasscom apontou que, até o fim de 2021, o Brasil contava com mais de 159 mil postos de trabalho abertos neste nicho. Por outro lado, apenas 53 mil profissionais se formaram na área. Hodiernamente, a projeção é de que, por ano, aproximadamente 106 mil postos de trabalho fiquem vagos, e a tendência é de que o número de pessoas qualificadas nesta área não acompanhe tal demanda.
 
-Considerada por muitos a profissão do futuro, a carreira de especialista em T.I tem se tornado mais necessária do que nunca, seja no que diz respeito ao desenvolvimento de sistemas utilizados em diversas áreas de atuação, seja pela segurança da informação, seja pela administração de banco de dados, seja pelo suporte técnico , entre tantas outras. Fato é, que encontrar esses profissinais livres no mercado tem sido uma tarefa difícil e cansativa.
+Considerada por muitos a profissão do futuro, a carreira de especialista em T.I tem se tornado mais necessária do que nunca, seja no que diz respeito ao desenvolvimento de sistemas utilizados em diversas áreas de atuação, seja pela segurança da informação, seja pela administração de banco de dados, seja pelo suporte técnico , entre tantas outras. Fato é, que encontrar esses profissionais livres no mercado tem sido uma tarefa difícil e cansativa.
 
-Tendo isso em vista, a ideia principal desse projeto é conseguir democratizar e ampliar o acesso à tecnologia para crianças e pré-adolescentes através da programação básica, a fim de instigá-los a participar cada vez mais dessa área. Com isso , esperamos dar à eles um ponto inicial de onde começar na carreira de T.I tendo como objetivo futuro sanar a falta de profissionais existentes nesse mercado.
+Tendo isso em vista, a ideia principal desse projeto é conseguir democratizar e ampliar o acesso à tecnologia para crianças e pré-adolescentes através da programação básica, a fim de instigá-los a participar cada vez mais dessa área. Com isso, esperamos dar à eles um ponto inicial de onde começar na carreira de T.I tendo como objetivo futuro sanar a falta de profissionais existentes nesse mercado.
 ## Problema
 
 Diante a crescente indústria de tecnologia da informação, nota-se um enorme déficit de profissionais equipados para suprirem as cargas existentes no mercado brasileiro. Anualmente, o Brasil forma cerca de 53 mil pessoas na área da tecnologia, porém, estima-se que nos próximos 5 anos haverá a criação de quase 800 mil novos postos, abrindo uma falta a mais de 532 mil pessoas capacitadas para atuar na área. Criando uma barreira imensa para o desenvolvimento de tecnologias inovadoras no país.
@@ -24,7 +24,7 @@ O aparente desinteresse existente pela área de TI por jovens é devido, em part
 ## Objetivos
 Temos como objetivo:
 
-- Dar a oportunidade para aqueles que possuem pouca experiência com a programação, de desfrutar e conhecer melhor a área. Utilizando de metodos didaticos para ensinar-los programação basica.
+- Dar a oportunidade para aqueles que possuem pouca experiência com a programação, de desfrutar e conhecer melhor a área. Utilizando de metodos didaticos para ensiná-los programação basica.
 - Gameficar o processo da programação, a fim de facilitar o aprendizado.
 - Desafiar nossos alunos com atividades interessantes para estimular suas criatividades e capaciades de solucionar problemas.
 - Dar aos alunos um ponto de partida para continuarem no caminho da programação após a realização das aulas.
@@ -33,10 +33,11 @@ Temos como objetivo:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
+É indubitavel a importancia que a programação possui tanto na atualidade, quanto no futuro. Mas considerando as atuais 106 mil vagas não peenchidades na área, que aumentam anualmente, é impressindivel que exista um insentivo maior aos jovens para que se interessem por ela. Portanto, acreditamos que dá-los a oportunidade de conhecer a programação de uma forma descontraida e divertido possa insentivá-los a buscar um maior aprofundamento no futuro.
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
+//Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para //"quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
 
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+//O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do //problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de //incluir tais referências no documento das Referências bibliográficas.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
