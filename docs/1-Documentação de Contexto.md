@@ -15,10 +15,12 @@ O aparente desinteresse existente pela área de TI por jovens é devido, em part
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+Temos como objetivo:
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+- Dar a oportunidade para aqueles que possuem pouca experiência com a programação, de desfrutar e conhecer melhor a área. Utilizando de metodos didaticos para ensinar-los programação basica.
+- Gameficar o processo da programação, a fim de facilitar o aprendizado.
+- Desafiar nossos alunos com atividades interessantes para estimular suas criatividades e capaciades de solucionar problemas.
+- Dar aos alunos um ponto de partida para continuarem no caminho da programação após a realização das aulas.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
