@@ -46,8 +46,6 @@ Temos como objetivo:
 
 O público-alvo desse projeto são crianças e pré-adolescentes, espera-se que eles não possuam nenhum ou pouco conhecimento prévio a respeito do assunto, entretanto a curiosidade e a vontade de aprender algo diferente do seu cotidiano os incentivou a participarem desse curso. É de dever de nós alunos - professores, nesse caso - a função de conseguir a atenção e interesse dos jovens, podendo assim despertar uma paixão que irá ter continuidade no futuro.
 
-// Espera-se que eles ainda não possuam um conhecimento prévio a respeito do assunto, ou ainda, que possuam uma breve experiência sobre a programação e o segmento de T.I como um todo. Contudo, sabemos que podemos encontrar diferentes perfis de indivíduos ao longo do projeto e , por isso, alguns deles podem se destacar mais do que outros por já terem uma pequena compreensão sobre o tema.
-
 Adicione informações sobre o público-alvo por meio de uma descrição textual.
 
 > **Links Úteis**:
