@@ -1,8 +1,8 @@
 # Introdução
 
-Os profissionais de Tecnologia da Informação se tornaram indispensáveis para a grande maioria dos segmentos industriais e empresariais. No entanto, mesmo sendo tão requisitados, o mercado de tecnologia da informação ainda carece de especialistas devidamente capacitados.E os números apontam que esse crescimento no número de vagas disponibilizadas não tem sido acompanhado pela quantidade de profissionais de T.I formados.
+Os profissionais de Tecnologia da Informação se tornaram indispensáveis para a grande maioria dos segmentos industriais e empresariais. No entanto, mesmo sendo tão requisitados, o mercado de tecnologia da informação ainda carece de especialistas devidamente capacitados. E os números apontam que esse crescimento no número de vagas disponibilizadas não tem sido acompanhado pela quantidade de profissionais de T.I formados.
 
-De acordo com os dados mais recentes do IBGE, atualmente são cerca de 10 milhões de desempregados no país. Nesse cenário, chega a ser improvável imaginar que há um segmento específico onde sobram vagas e faltam candidatos.Entretanto, essa é a realidade do setor de Tecnologia da Informação que, segundo especialistas, já perdura há um tempo e tende a se estender pelo futuro próximo.
+De acordo com os dados mais recentes do IBGE, atualmente são cerca de 10 milhões de desempregados no país. Nesse cenário, chega a ser improvável imaginar que há um segmento específico onde sobram vagas e faltam candidatos. Entretanto, essa é a realidade do setor de Tecnologia da Informação que, segundo especialistas, já perdura há um tempo e tende a se estender pelo futuro próximo.
 
 Um estudo feito pela Brasscom apontou que, até o fim de 2021, o Brasil contava com mais de 159 mil postos de trabalho abertos neste nicho. Por outro lado, apenas 53 mil profissionais se formaram na área. Hodiernamente, a projeção é de que, por ano, aproximadamente 106 mil postos de trabalho fiquem vagos, e a tendência é de que o número de pessoas qualificadas nesta área não acompanhe tal demanda.
 
