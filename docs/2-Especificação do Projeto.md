@@ -10,7 +10,7 @@ Exemplo:
 
 |**Frankie Corio**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://preview.redd.it/33iajzeo5xb61.jpg?width=640&crop=smart&auto=webp&s=cd1e8901fc5ef2bebc81d017eb328aac2de23180" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
+<img src="https://this-person-does-not-exist.com/download-page/pt?image=gen1145403f4c05063a4a148afeefc2620a" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
 |**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
 
 |**Camila Fiães**|           |                             | 
