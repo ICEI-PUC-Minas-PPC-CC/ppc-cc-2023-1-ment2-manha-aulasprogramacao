@@ -5,6 +5,7 @@ Atualmente, tem se notado uma falta imensa de profissionais nas áreas de tecnol
 ## Problema
 
 Diante a crescente indústria de tecnologia da informação, nota-se um enorme déficit de profissionais equipados para suprirem as cargas existentes no mercado brasileiro. Anualmente, o Brasil forma cerca de 53 mil pessoas na área da tecnologia, porém, estima-se que nos próximos 5 anos haverá a criação de quase 800 mil novos postos, abrindo uma falta a mais de 532 mil pessoas capacitadas para atuar na área. Criando uma barreira imensa para o desenvolvimento de tecnologias inovadoras no país.
+
 O aparente desinteresse existente pela área de TI por jovens é devido, em partes, por um desconhecimento geral da área, sigmas sociais, e concentração monumental de homens brancos na área, tornando-a mais intimidante do que realmente é, desviando possíveis profissionais.
 
 
