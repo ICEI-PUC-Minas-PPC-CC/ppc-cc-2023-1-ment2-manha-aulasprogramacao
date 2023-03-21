@@ -1,7 +1,14 @@
 # Introdução
 
-Atualmente, tem se notado uma falta imensa de profissionais nas áreas de tecnologia no Brasil, especialmente programadores. Nosso grupo busca dar a oportunidade para jovens descobrirem um amor pela programação, ensinando e desafiando-os, a fim de que tomem gosto, considerem em se aprofundar, e possivelmente seguirem futuramente como profissão.
+Os profissionais de Tecnologia da Informação se tornaram indispensáveis para a grande maioria dos segmentos industriais e empresariais. No entanto, mesmo sendo tão requisitados, o mercado de tecnologia da informação ainda carece de especialistas devidamente capacitados.E os números apontam que esse crescimento no número de vagas disponibilizadas não tem sido acompanhado pela quantidade de profissionais de T.I formados.
 
+De acordo com os dados mais recentes do IBGE, atualmente são cerca de 10 milhões de desempregados no país. Nesse cenário, chega a ser improvável imaginar que há um segmento específico onde sobram vagas e faltam candidatos.Entretanto, essa é a realidade do setor de Tecnologia da Informação que, segundo especialistas, já perdura há um tempo e tende a se estender pelo futuro próximo.
+
+Um estudo feito pela Brasscom apontou que, até o fim de 2021, o Brasil contava com mais de 159 mil postos de trabalho abertos neste nicho. Por outro lado, apenas 53 mil profissionais se formaram na área. Hodiernamente, a projeção é de que, por ano, aproximadamente 106 mil postos de trabalho fiquem vagos, e a tendência é de que o número de pessoas qualificadas nesta área não acompanhe tal demanda.
+
+Considerada por muitos a profissão do futuro, a carreira de especialista em T.I tem se tornado mais necessária do que nunca, seja no que diz respeito ao desenvolvimento de sistemas utilizados em diversas áreas de atuação, seja pela segurança da informação, seja pela administração de banco de dados, seja pelo suporte técnico , entre tantas outras. Fato é, que encontrar esses profissinais livres no mercado tem sido uma tarefa difícil e cansativa.
+
+Tendo isso em vista, a ideia principal desse projeto é conseguir democratizar e ampliar o acesso à tecnologia para crianças e pré-adolescentes através da programação básica, a fim de instigá-los a participar cada vez mais dessa área. Com isso , esperamos dar à eles um ponto inicial de onde começar na carreira de T.I tendo como objetivo futuro sanar a falta de profissionais existentes nesse mercado.
 ## Problema
 
 Diante a crescente indústria de tecnologia da informação, nota-se um enorme déficit de profissionais equipados para suprirem as cargas existentes no mercado brasileiro. Anualmente, o Brasil forma cerca de 53 mil pessoas na área da tecnologia, porém, estima-se que nos próximos 5 anos haverá a criação de quase 800 mil novos postos, abrindo uma falta a mais de 532 mil pessoas capacitadas para atuar na área. Criando uma barreira imensa para o desenvolvimento de tecnologias inovadoras no país.
@@ -36,7 +43,7 @@ O grupo de trabalho pode também fazer uso de questionários, entrevistas e dado
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+O público-alvo desse projeto é voltado para crianças e pré-adolescentes. Espera-se que eles ainda não possuam um conhecimento prévio a respeito do assunto, ou ainda, que possuam uma breve experiência sobre a programação e o segmento de T.I como um todo. Contudo, sabemos que podemos encontrar diferentes perfis de indivíduos ao longo do projeto e , por isso, alguns deles podem de destacar mais do que outros por já terem uma pequena compreensão sobre o tema.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual.
 
