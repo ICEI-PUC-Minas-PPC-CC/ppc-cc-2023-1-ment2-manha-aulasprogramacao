@@ -6,12 +6,12 @@
 
 ## Integrantes
 
-- Vinicius Martins Freire
-- Octávio Patrocínio Martins
-- Lucas Candido Albino
 - Gabriel Maximino Rascão Pereira
 - João Henrique de Oliveira
+- Lucas Candido Albino
 - Matheus Henrique Ferreira Neves
+- Octávio Patrocínio Martins
+- Vinicius Martins Freire
 
 ## Professor
 
