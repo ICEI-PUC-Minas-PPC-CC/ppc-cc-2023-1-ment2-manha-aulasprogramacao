@@ -17,7 +17,7 @@ Exemplo:
 |-------------------|-----------|-----------------------------|
 <img src="https://st2.depositphotos.com/1518767/6898/i/450/depositphotos_68982147-stock-photo-portrait-of-boy-sitting-in.jpg" width="200" height="200"/>|**Idade:** 14 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** Cursar o Ensino Fundametal II.
 |**Motivações:** Está curioso sobre a área da programação, e almeja aprender sobre o que se trata. |**Frustações:** Se sente perdido quanto à sua futura carreira.
-|**Hobbies, história:** Jorge costumava jogar bola na maioria de seus dias, nunca ligando muito para jogos e coisas do tipo. Mas após um acidente de carro gravíssimo, perdeu o movimento de suas pernas. Com a impossibilidade de continuar fazendo aquilo que o trazia tanto prazer, ele encontrou um escape no seu computador, e nos jogos que ali tinha. Possibilitando que ele brincasse com seus amigos novamente.
+                                                                                        |**Hobbies, história:** Jorge costumava jogar bola na maioria de seus dias, nunca ligando muito para jogos e coisas do tipo. Mas após um acidente de carro gravíssimo, perdeu o movimento de suas pernas. Com a impossibilidade de continuar fazendo aquilo que o trazia tanto prazer, ele encontrou um escape no seu computador, e nos jogos que ali tinha. Possibilitando que ele brincasse com seus amigos novamente.
 
 ## Histórias de Usuários
 
