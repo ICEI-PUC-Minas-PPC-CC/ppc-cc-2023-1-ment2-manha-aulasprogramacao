@@ -6,10 +6,12 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 ## Personas
 
+Exemplo:
+
 |**Isabela Urasawa**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://this-person-does-not-exist.com/img/avatar-gen2228e707029ad20d9d81ffffba88b812.jpg" width="200" height="200"/>|**Idade:** 13 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** cursar o ensino médio. 
-|**Motivações:** Isabela tem uma grande facilidade na área de exatas, sendo várias vezes medalhista da OBMEP, ela deseja usar esse conhecimento em lógica desenvolvido desde criança para criar aplicações que a possam ajudar em desafios matemáticos. Além disso, também tem vontade de adentrar no mundo dos jogos - principalmente aventura, ação e RPG - já que é uma ávida leitora de Tolkien, Herbert e Lovecraft. |**Frustações:** se sente um pouco esgotada devido a quantidade de estudo diária, afinal seus pais não tem condição de pagar uma boa faculdade privada no futuro. |**Hobbies, história:** ler livros - principalmente de ficção científica, assistir filmes e brincar com suas duas irmãs mais novas.
+|**Motivações:** Está com vontade de desenvolver códigos matemáticos e jogar alguns jogos. |**Frustações:** se sente um pouco esgotada devido a quantidade de estudo diária, afinal seus pais não tem condição de pagar uma boa faculdade privada no futuro. |**Hobbies, história:** Isabela tem uma grande facilidade na área de exatas, sendo várias vezes medalhista da OBMEP, ela deseja usar esse conhecimento em lógica desenvolvido desde criança para criar aplicações que a possam ajudar em desafios matemáticos. Além disso, também tem vontade de adentrar no mundo dos jogos - principalmente aventura, ação e RPG - já que é uma ávida leitora de Tolkien, Herbert e Lovecraft. Os seus hobbies são leitura, filmes e brincar com suas duas irmãs mais novas.
 
 |**Jorge de Paiva**|           |                             | 
 |-------------------|-----------|-----------------------------|
@@ -27,7 +29,6 @@ Exemplo:
 |--------------------|------------------------------------|----------------------------------------|
 |Isabela Urasawa | criar aplicações matemáticas | melhor desempenho em provas de matemática. |
 |Isabela Urasawa | jogar jogos com suas temáticas favoritas | entretenimento e diversão |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
 |Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
