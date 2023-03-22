@@ -8,10 +8,12 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Exemplo:
 
-|**Frankie Corio**|           |                             | 
+|**Isabela Urasawa**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://this-person-does-not-exist.com/img/avatar-gen2228e707029ad20d9d81ffffba88b812.jpg" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://this-person-does-not-exist.com/img/avatar-gen2228e707029ad20d9d81ffffba88b812.jpg" width="200" height="200"/>|**Idade:** 13 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** cursar o ensino médio. 
+|**Motivações:** Isabela tem uma grande facilidade na área de exatas, sendo várias vezes medalhista da OBMEP, ela deseja usar esse conhecimento em lógica desenvolvido desde criança para criar aplicações que a possam ajudar em desafios matemáticos. Além disso, também tem vontade de adentrar no mundo dos jogos - principalmente aventura, ação e RPG - já que é uma ávida leitora de Tolkien, Herbert e Lovecraft.
+|**Frustações:** se sente um pouco esgotada devido a quantidade de estudo diária, afinal seus pais não tem condição de pagar uma boa faculdade privada no futuro.
+|**Hobbies, história:** ler livros - principalmente de ficção científica, assistir filmes e brincar com suas duas irmãs mais novas.
 
 |**Camila Fiães**|           |                             | 
 |-------------------|-----------|-----------------------------|
