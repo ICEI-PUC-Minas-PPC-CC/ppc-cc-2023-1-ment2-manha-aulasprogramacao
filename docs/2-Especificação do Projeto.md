@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-O projeto tem como intuito ensinar de forma dinâmica os básicos da programação. Desafiando e entretendo-os ao longo do processo.
+O projeto tem como intuito ensinar de forma dinâmica os básicos da programação. Desafiando e entretendo os alunos ao longo do processo.
 
 A especificação a seguir é composta pela definição do diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
 
@@ -23,20 +23,9 @@ Exemplo:
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
-Exemplo:
-
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Isabela Urasawa | criar aplicações matemáticas | melhor desempenho em provas de matemática. |
-|Isabela Urasawa | jogar jogos com suas temáticas favoritas | entretenimento e diversão |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
+|Isabela Urasawa | Criar aplicações matemáticas | Praticar e melhorar meu desempenho em provas de matemática. |
+|Isabela Urasawa | Jogar jogos com minhas temáticas favoritas | Me entreter e divertir|
+|Jorge de Paiva | Aprender sobre novas áreas da tecnologia | Descobrir uma nova coisa com qual eu possa possivelmente fazer no futuro|
+|Jorge de Paiva | Fazer jogos legais | Mostrar para meus amigos |
