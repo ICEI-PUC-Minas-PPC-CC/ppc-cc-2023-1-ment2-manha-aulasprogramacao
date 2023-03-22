@@ -19,20 +19,6 @@ Exemplo:
 |**Motivações:** Está curioso sobre a área da programação, e almeja aprender sobre o que se trata. |**Frustações:** Se sente perdido quanto à sua futura carreira.
 |**Hobbies, história:** Jorge costumava jogar bola na maioria de seus dias, nunca ligando muito para jogos e coisas do tipo. Mas após um acidente de carro gravíssimo, perdeu o movimento de suas pernas. Com a impossibilidade de continuar fazendo aquilo que o trazia tanto prazer, ele encontrou um escape no seu computador, e nos jogos que ali tinha. Possibilitando que ele brincasse com seus amigos novamente.
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
-
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
-
 ## Histórias de Usuários
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
