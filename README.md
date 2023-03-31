@@ -6,6 +6,7 @@
 
 ## Integrantes
 
+- Adalberto dos Santos Pinheiro
 - Gabriel Maximino Rascão Pereira
 - João Henrique de Oliveira
 - Lucas Candido Albino
