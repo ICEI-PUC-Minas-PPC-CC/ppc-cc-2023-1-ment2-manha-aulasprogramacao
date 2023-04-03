@@ -44,7 +44,7 @@ Temos como objetivo:
 
 ## Público-Alvo
 
-O público-alvo desse projeto são crianças e pré-adolescentes, espera-se que eles não possuam nenhum ou pouco conhecimento prévio a respeito do assunto, entretanto a curiosidade e a vontade de aprender algo diferente do seu cotidiano os incentivou a participarem desse curso. É de dever de nós alunos - professores, nesse caso - a função de conseguir a atenção e interesse dos jovens, podendo assim despertar uma paixão que irá ter continuidade no futuro.
+O público-alvo desse projeto são crianças e pré-adolescentes, espera-se que eles possuam nenhum ou pouco conhecimento prévio a respeito do assunto, entretanto a curiosidade e a vontade de aprender algo diferente do seu cotidiano os incentivou a participarem desse curso. É de dever de nós alunos - professores, nesse caso - a função de conseguir a atenção e interesse dos jovens, podendo assim despertar uma paixão que irá ter continuidade no futuro.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
