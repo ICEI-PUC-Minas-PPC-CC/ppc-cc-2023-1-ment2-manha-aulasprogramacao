@@ -41,7 +41,7 @@ Tendo isso em vista, a ideia principal desse projeto é conseguir democratizar e
 
 ## Público-Alvo
 
-O público-alvo desse projeto são crianças e pré-adolescentes, espera-se que eles possuam nenhum ou pouco conhecimento prévio a respeito do assunto, entretanto a curiosidade e a vontade de aprender algo diferente do seu cotidiano os incentivou a participarem desse curso.
+O público-alvo desse projeto são crianças e pré-adolescentes. Espera-se que eles possuam pouco ou nenhum conhecimento prévio a respeito do assunto, entretanto a curiosidade e a vontade de aprender algo diferente do seu cotidiano os incentivou a participarem desse curso.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
