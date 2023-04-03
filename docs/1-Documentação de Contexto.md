@@ -35,10 +35,6 @@ Temos como objetivo:
 ## Justificativa
 É indubitavel a importancia que a programação possui tanto na atualidade, quanto no futuro. Mas considerando as atuais 106 mil vagas não peenchidades na área, que aumentam anualmente, é impressindivel que exista um insentivo maior aos jovens para que se interessem por ela. Portanto, acreditamos que dá-los a oportunidade de conhecer a programação de uma forma descontraida e divertido possa insentivá-los a buscar um maior aprofundamento no futuro.
 
-//Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para //"quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
-
-//O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do //problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de //incluir tais referências no documento das Referências bibliográficas.
-
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
