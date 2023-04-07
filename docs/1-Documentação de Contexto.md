@@ -22,9 +22,19 @@ Temos como objetivo:
 
 ## Justificativa
 
-Um estudo feito pela Brasscom apontou que, até o fim de 2021, o Brasil contava com mais de 159 mil postos de trabalho abertos neste nicho. Por outro lado, apenas 53 mil profissionais se formaram na área. Hodiernamente, a projeção é de que, por ano, aproximadamente 106 mil postos de trabalho fiquem vagos, e a tendência é de que o número de pessoas qualificadas nesta área não acompanhe tal demanda.
+Um estudo feito pela Brasscom apontou que, até o fim de 2021, o Brasil contava com mais de 159 mil postos de trabalho abertos neste nicho.
+Por outro lado, apenas 53 mil profissionais se formaram na área. Hodiernamente, a projeção é de que, por ano, aproximadamente 106 mil
+postos de trabalho fiquem vagos, e a tendência é de que o número de pessoas qualificadas nesta área não acompanhe tal demanda.
 
-Tendo isso em vista, a ideia principal desse projeto é conseguir democratizar e ampliar o acesso à tecnologia para crianças e pré-adolescentes através da programação básica, a fim de instigá-los a participar cada vez mais dessa área. Com isso, esperamos dar à eles um ponto inicial de onde começar na carreira de T.I tendo como destino futuro sanar a falta de profissionais existentes nesse mercado.
+Outro estudo formulado pelo site G1, diz que o Brasil deve gerar quase 420 mil vagas no setor de T.I até 2025, porém, ainda há extrema dificuldade para
+encontrar profissionais da área para ocupar os cargos. A dificuldade de encontrar mão de obra pronta no mercado
+tem feito muitas empresas investirem na formação de profissionais para trabalhar na área de tecnologia. A área de tecnologia está entre as que
+mais empregam atualmente no Brasil. No entanto, também é uma das que mais sofrem com a escassez de profissionais qualificados.
+
+Tendo isso em vista, a ideia principal desse projeto é conseguir democratizar e
+ampliar o acesso à tecnologia para crianças e pré-adolescentes através da programação básica,
+a fim de instigá-los a participar cada vez mais dessa área. Com isso, esperamos dar à eles um ponto inicial de onde começar
+na carreira de T.I tendo como destino futuro sanar a falta de profissionais existentes nesse mercado.
 
 ## Público-Alvo
 
