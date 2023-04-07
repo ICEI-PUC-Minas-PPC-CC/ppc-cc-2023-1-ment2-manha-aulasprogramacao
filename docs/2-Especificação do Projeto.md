@@ -25,7 +25,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Isabela Urasawa | Criar aplicações matemáticas | Praticar e melhorar meu desempenho em provas de matemática. |
-|Isabela Urasawa | Jogar jogos com minhas temáticas favoritas | Me entreter e divertir|
-|Jorge de Paiva | Aprender sobre novas áreas da tecnologia | Descobrir uma nova coisa com qual eu possa possivelmente fazer no futuro|
+|Isabela Urasawa | Criar aplicações matemáticas | Praticar e melhorar meu desempenho em provas de matemática |
+|Isabela Urasawa | Entender como os jogos são feitos | Adquirir um novo conhecimento sobre algo que gosto |
+|Jorge de Paiva | Aprender sobre novas áreas da tecnologia | Descobrir uma nova coisa com qual eu possa possivelmente fazer no futuro |
 |Jorge de Paiva | Fazer jogos legais | Mostrar para meus amigos |
