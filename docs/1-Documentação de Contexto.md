@@ -12,23 +12,13 @@ Diante a crescente indústria de tecnologia da informação, nota-se um enorme d
 
 O aparente desinteresse existente pela área de TI por jovens é devido, em partes, por um desconhecimento geral da área, estigmas sociais, e concentração monumental de homens brancos na área, tornando-a mais intimidante do que realmente é, desviando possíveis profissionais.
 
-
-> **Links Úteis**:
-> - [Objetivos e Problema de pesquisa ](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-> - [Introdução , Justificativa] (https://runtalent.it/carreiras/carencia-de-profissionais-de-ti/)
-
 ## Objetivos
 Temos como objetivo:
 
 - Dar a oportunidade para aqueles que possuem pouca experiência com a programação, de desfrutar e conhecer melhor a área. Utilizando de metodos didaticos para ensiná-los programação basica.
-- Gameficar o processo da programação, a fim de facilitar o aprendizado.
+- Gameficar o processo da programação, utilizando recursos como o Scratch e estruturando as diferentes partes das aulas em níveis para serem completadas, a fim de facilitar o aprendizado.
 - Desafiar nossos alunos com atividades interessantes para estimular suas criatividades e capaciades de solucionar problemas.
 - Dar aos alunos um ponto de partida para continuarem no caminho da programação após a realização das aulas.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -36,15 +26,6 @@ Um estudo feito pela Brasscom apontou que, até o fim de 2021, o Brasil contava 
 
 Tendo isso em vista, a ideia principal desse projeto é conseguir democratizar e ampliar o acesso à tecnologia para crianças e pré-adolescentes através da programação básica, a fim de instigá-los a participar cada vez mais dessa área. Com isso, esperamos dar à eles um ponto inicial de onde começar na carreira de T.I tendo como destino futuro sanar a falta de profissionais existentes nesse mercado.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
 O público-alvo desse projeto são crianças e pré-adolescentes. Espera-se que eles possuam pouco ou nenhum conhecimento prévio a respeito do assunto, entretanto a curiosidade e a vontade de aprender algo diferente do seu cotidiano os incentivou a participarem desse curso.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
