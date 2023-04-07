@@ -19,10 +19,10 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 |------|-----------------------------------------|----|
 |1| Introdução à lógica de programação com scratch| 120 minutos | 
 |2| Lógica com scratch e liguagem de programação   | 120 minutos |
-|1| Introdução à HTML | 120 minutos | 
-|2| Introdução à CSS   | 120 minutos |
-|1| Desenvolvimento de uma página usando HTML e CSS | 120 minutos | 
-\
+|3| Introdução à HTML | 120 minutos | 
+|4| Introdução à CSS   | 120 minutos |
+|5| Desenvolvimento de uma página usando HTML e CSS | 120 minutos | 
+
 
 
 
