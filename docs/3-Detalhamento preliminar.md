@@ -17,8 +17,12 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
-|1| Introdução à lógica de programação | 30 minutos | 
-|2| Introdução ao funcionamento de um compilador   | 20 minutos |
+|1| Introdução à lógica de programação com scratch| 120 minutos | 
+|2| Lógica com scratch e liguagem de programação   | 120 minutos |
+|1| Introdução à HTML | 120 minutos | 
+|2| Introdução à CSS   | 120 minutos |
+|1| Desenvolvimento de uma página usando HTML e CSS | 120 minutos | 
+\
 
 
 
