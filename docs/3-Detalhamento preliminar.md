@@ -15,6 +15,8 @@ Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada
 Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
 Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
 
+
+
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
 |1| Introdução à lógica de programação com scratch| 120 minutos | 
@@ -22,6 +24,15 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 |3| Introdução à HTML | 120 minutos | 
 |4| Introdução à CSS   | 120 minutos |
 |5| Desenvolvimento de uma página usando HTML e CSS | 120 minutos | 
+
+Aula 1: Será uma introdução do que será visto no decorrer dos encontros. O principal foco dessa aula será o começo da lógica de programação. 
+A ferramenta a ser utilizada será o scratch, que é uma forma mais visual de conhecer os passsos ao desenvolver algo.
+Assim, preparando os alunos para as próximas etapas.
+
+Aula 2: Uma continuação da aula 1, porém com o uso de uma linguagem de programação mais formal. 
+Nessa aula, será apresentado aos alunos como desenvolver aplicações simples usando códigos. 
+
+
 
 
 
