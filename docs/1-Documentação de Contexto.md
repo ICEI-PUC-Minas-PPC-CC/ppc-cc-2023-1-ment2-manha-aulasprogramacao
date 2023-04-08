@@ -2,7 +2,7 @@
 
 Os profissionais de Tecnologia da Informação se tornaram indispensáveis para a grande maioria dos segmentos industriais e empresariais. No entanto, mesmo sendo tão requisitados, o mercado de tecnologia da informação ainda carece de especialistas devidamente capacitados. E pesquisas apontam que esse crescimento no número de vagas disponibilizadas não tem sido acompanhado pela quantidade de profissionais de T.I formados.
 
-De acordo com os dados mais recentes do IBGE, atualmente são cerca de 10 milhões de desempregados no país. Nesse cenário, chega a ser improvável imaginar que há um segmento específico onde sobram vagas e faltam candidatos. Entretanto, essa é a realidade do setor de Tecnologia da Informação que, segundo especialistas, já perdura há um tempo e tende a se estender pelo futuro próximo.
+De acordo com os dados do IBGE citados pela Gazeta do Povo [1], atualmente são cerca de 10 milhões de desempregados no país. Nesse cenário, chega a ser improvável imaginar que há um segmento específico onde sobram vagas e faltam candidatos. Entretanto, essa é a realidade do setor de Tecnologia da Informação que, segundo especialistas, já perdura há um tempo e tende a se estender pelo futuro próximo.
 
 Considerada por muitos a profissão do futuro, a carreira de especialista em T.I tem se tornado mais necessária do que nunca, seja no que diz respeito ao desenvolvimento de sistemas utilizados em diversas áreas de atuação, seja pela segurança da informação, seja pela administração de banco de dados, seja pelo suporte técnico , entre tantas outras. Fato é, que encontrar esses profissionais livres no mercado tem sido uma tarefa difícil e cansativa.
 
@@ -22,11 +22,11 @@ Temos como objetivo:
 
 ## Justificativa
 
-Um estudo feito pela Brasscom apontou que, até o fim de 2021, o Brasil contava com mais de 159 mil postos de trabalho abertos neste nicho.
+De acordo com um estudo feito pela Brasscom e apresentado pela Gazeta do Povo[1] apontou que, até o fim de 2021, o Brasil contava com mais de 159 mil postos de trabalho abertos neste nicho.
 Por outro lado, apenas 53 mil profissionais se formaram na área. Hodiernamente, a projeção é de que, por ano, aproximadamente 106 mil
 postos de trabalho fiquem vagos, e a tendência é de que o número de pessoas qualificadas nesta área não acompanhe tal demanda.
 
-Outro estudo formulado pelo site G1, diz que o Brasil deve gerar quase 420 mil vagas no setor de T.I até 2025, porém, ainda há extrema dificuldade para
+Outro estudo formulado pelo site G1[2], diz que o Brasil deve gerar quase 420 mil vagas no setor de T.I até 2025, porém, ainda há extrema dificuldade para
 encontrar profissionais da área para ocupar os cargos. A dificuldade de encontrar mão de obra pronta no mercado
 tem feito muitas empresas investirem na formação de profissionais para trabalhar na área de tecnologia. A área de tecnologia está entre as que
 mais empregam atualmente no Brasil. No entanto, também é uma das que mais sofrem com a escassez de profissionais qualificados.
