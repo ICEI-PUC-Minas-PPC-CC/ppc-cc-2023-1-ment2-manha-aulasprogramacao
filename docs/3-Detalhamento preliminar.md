@@ -25,6 +25,7 @@ Nessas aulas, serão abordados os conceitos básicos nessas linguagens, onde os 
 Aula 5: Continuação das aula 3 e 4, nessa será abordado o básico de javascript, para complementar a página desenvolvida anteriormente. 
 Com isso, os alunos terão uma base no desenvolvimento web.
 
+Aula 6: Finalização do projeto desenvolvido ao longo das aulas.
 
 
 
