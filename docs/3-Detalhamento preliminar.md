@@ -15,8 +15,8 @@ Para despertar mais interesse nos alunos na área de programação, vamos ensina
 
 
 Aula 1: Será uma introdução do que será visto no decorrer dos encontros. O principal foco dessa aula será o uso da ferramenta, onde será visto como iniciar um projeto,
-como adicionar objetos na cana, como trabalhar com condições, etc. A ideia da aula será preparar os alunos para desenvolverem o projeto de forma mais independente. 
-Para isso, vamos desenvolver um jogo junto com os alunos, assim poderão entender melhor com a prática.
+como adicionar objetos na cena, como trabalhar com condições, etc. A ideia da aula será preparar os alunos para desenvolverem o projeto de forma mais independente. 
+Para isso, vamos desenvolver um jogo junto com os alunos, assim poderão entender melhor com a prática. Além disso, faremos uma pequena roda de conversas, próxima de um bate-papo, para entender mais sobre os participantes e suas experiências na área de progamação, afim também de estabelecer uma comunicação e criar uma conexão com eles. 
 
 Aula 2: Essa aula será uma continuação da primeira, com base no nível de aprendizado dos alunos na primeira aula. Daremos continuidade ao jogo da aula anterior, adicionando mais recursos. Como atividade, os alunos desenvolverão uma nova cena para o jogo, assim praticando o que foi visto em aula.
 
