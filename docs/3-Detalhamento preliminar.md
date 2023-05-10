@@ -20,12 +20,13 @@ Para isso, vamos desenvolver um jogo junto com os alunos, assim poderão entende
 
 Aula 2: Essa aula será uma continuação da primeira, com base no nível de aprendizado dos alunos na primeira aula. Daremos continuidade ao jogo da aula anterior, adicionando mais recursos. Como atividade, os alunos desenvolverão uma nova cena para o jogo, assim praticando o que foi visto em aula.
 
-Aula 3: Continuação da atividade anterior e definição de projeto. Cada aluno vai desenvolver um projeto individualmente, porém com auxílio sempre que precisar. Assim 
+Aula 3: Continuação da atividade anterior e definição de projeto. Cada aluno vai desenvolver um projeto individualmente, porém com auxílio sempre que precisar. Assim poderão por em prática tudo o que foi visto na teoria e buscar por novos recursos.
 
-Aula 5: Continuação das aula 3 e 4, nessa será abordado o básico de javascript, para complementar a página desenvolvida anteriormente. 
-Com isso, os alunos terão uma base no desenvolvimento web.
+Aula 4, 5 e 6: Essas aulas serão totalmente focadas no desenvolvimento do projeto que os alunos escolheram. 
+Cada aluno deverá desenvolver um jogo com base no que foi visto nas aulas. 
+A ideia é que caminhem sozinhos, assim precisarão exercitar a lógica, porém terão toda a assistência nescessária, principalmente em caso de dúvidas ou dificuldades com algo. O objetivo é despertar o interesse nos alunos para que comecem novos projetos após o término do curso.
 
-Aula 6: Finalização do projeto desenvolvido ao longo das aulas.
+
 
 
 
