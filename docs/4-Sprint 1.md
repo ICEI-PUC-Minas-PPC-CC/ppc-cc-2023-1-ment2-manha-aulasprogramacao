@@ -20,11 +20,13 @@ Aula 1: Será uma introdução do que será visto no decorrer dos encontros. O p
 
 Aula 2: Essa aula será uma continuação da primeira, com base no nível de aprendizado dos alunos na primeira aula. Daremos continuidade ao jogo da aula anterior, adicionando mais recursos. Como atividade, os alunos desenvolverão uma nova cena para o jogo, assim praticando o que foi visto em aula.
 
-Aula 3: Continuação da atividade anterior e definição de projeto. Cada aluno vai desenvolver um projeto individualmente, porém com auxílio sempre que precisar. Assim
+Aula 3: Continuação da atividade anterior e definição de projeto. Cada aluno vai desenvolver um projeto individualmente, porém com auxílio sempre que precisar. 
 
-Aula 5: Continuação das aula 3 e 4, nessa será abordado o básico de javascript, para complementar a página desenvolvida anteriormente. Com isso, os alunos terão uma base no desenvolvimento web.
+Aula 4: Com os projetos já definidos, trabalharemos com os alunos para ajuda-los à fundamentarem as ideias para seus projetos. Os auxíliando sempre que necessário.
 
-Aula 6: Finalização do projeto desenvolvido ao longo das aulas.
+Aula 5: Continuação do desenvolvimento do projeto.
+
+Aula 6: Finalização e apresentação dos projetos desenvolvidos ao longo das aulas. Com uma última roda de conversa para encerrar as aulas.
 
 Inicialmente temos a ideia de dividir nosso grupo em 2 pequenos sub grupos a fim de equilibrar as tarefas e ministrações em sala de aula. O primeiro grupo, composto de 3 alunos, teria como objetivo participar das primeiras três aulas, com a introdução à plataforma e a definição do projeto. O segundo grupo, composto de 4 alunos, teria como objetivo participar das próximas 3 aulas, dando início, desenvolvimento e fechamento do projeto. Esse último grupo teria um aluno a mais, justamente para dar mais suporte aos participantes do curso, visto que a parte de desenvolvimento pode demandar mais trabalho. 
 
@@ -38,6 +40,14 @@ O grupo ficou dividido da seguinte maneira:
 - Gabriel: parte de conhecer mais sobre os alunos, responsável pelas partes mais introdutórias.
 - Octávio: responsável pela parte mais técnica, sobre como usar as ferramentas da engine e os fundamentos básico da lógica.
 - João: responsável pelo suporte aos alunos, assim, podendo atender dúvidas e dificuldades de cada um de forma mais personalizada.
+
+O segundo grupo será composto por: 
+- Lucas
+- Vinicius
+- Matheus
+- Adalberto
+
+Os participantes desse grupo terão a responsabilidade de orientar os alunos em seus projetos finais. Dando total foco no desenvolvimento dos jogos, sempre os auxiliando onde e quando necessário. Após o termino dos projetos, haverá uma apresentação dos trabalhos desenvolvidos, e uma roda de conversa final com os alunos, onde discutiremos suas experiências durante o processo de desenvolvimento e apontaremos os nossos aspectos favoritos de cada projeto. E enfim, encerrando as nossas aulas.
 
 Para auxílio dos alunos, está sendo preparado um documento que contém links para tutoriais onde possam usar como referência para o desenvolvimento do projeto. 
 Nas aulas iniciais, também terão atividades práticas, para que os alunos possam exercitar o conteúdo visto.
