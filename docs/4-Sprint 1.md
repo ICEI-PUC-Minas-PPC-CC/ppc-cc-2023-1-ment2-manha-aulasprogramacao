@@ -26,7 +26,7 @@ Aula 4: Com os projetos já definidos, trabalharemos com os alunos para ajuda-lo
 
 Aula 5: Continuação do desenvolvimento do projeto.
 
-Aula 6: Finalização e apresentação dos projetos desenvolvidos ao longo das aulas. Com uma última roda de conversa para encerrar as aulas.
+Aula 6: Finalização e apresentação dos projetos desenvolvidos ao longo do curso. Com uma última roda de conversa para encerrar as aulas.
 
 Inicialmente temos a ideia de dividir nosso grupo em 2 pequenos sub grupos a fim de equilibrar as tarefas e ministrações em sala de aula. O primeiro grupo, composto de 3 alunos, teria como objetivo participar das primeiras três aulas, com a introdução à plataforma e a definição do projeto. O segundo grupo, composto de 4 alunos, teria como objetivo participar das próximas 3 aulas, dando início, desenvolvimento e fechamento do projeto. Esse último grupo teria um aluno a mais, justamente para dar mais suporte aos participantes do curso, visto que a parte de desenvolvimento pode demandar mais trabalho. 
 
