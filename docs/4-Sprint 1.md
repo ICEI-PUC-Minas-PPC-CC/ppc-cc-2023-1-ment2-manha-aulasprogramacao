@@ -39,4 +39,5 @@ O grupo ficou dividido da seguinte maneira:
 - Octávio: responsável pela parte mais técnica, sobre como usar as ferramentas da engine e os fundamentos básico da lógica.
 - João: responsável pelo suporte aos alunos, assim, podendo atender dúvidas e dificuldades de cada um de forma mais personalizada.
 
-Para auxílio dos alunos, está sendo preparado um documento que contém links para tutoriais onde possam usar como referência para o desenvolvimento do projeto.
+Para auxílio dos alunos, está sendo preparado um documento que contém links para tutoriais onde possam usar como referência para o desenvolvimento do projeto. 
+Nas aulas iniciais, também terão atividades práticas, para que os alunos possam exercitar o conteúdo visto.
