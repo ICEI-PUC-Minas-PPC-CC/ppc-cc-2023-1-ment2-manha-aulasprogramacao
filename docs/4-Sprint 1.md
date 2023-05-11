@@ -26,4 +26,17 @@ Aula 5: Continuação das aula 3 e 4, nessa será abordado o básico de javascri
 
 Aula 6: Finalização do projeto desenvolvido ao longo das aulas.
 
-Inicialmente temos a ideia de dividir nosso grupo em 2 pequenos sub grupos a fim de equilibrar as tarefas e ministrações em sala de aula. O primeiro grupo, composto de 3 alunos, teria como objetivo participar das primeiras três aulas, com a introdução à plataforma e a definição do projeto. O segundo grupo, composto de 4 alunos, teria como objetivo participar das próximas 3 aulas, dando início, desenvolvimento e fechamento do projeto. Esse último grupo teria um aluno a mais, justamente para dar mais suporte aos participantes do curso, visto que a parte de desenvolvimento pode demandar mais trabalho.  
+Inicialmente temos a ideia de dividir nosso grupo em 2 pequenos sub grupos a fim de equilibrar as tarefas e ministrações em sala de aula. O primeiro grupo, composto de 3 alunos, teria como objetivo participar das primeiras três aulas, com a introdução à plataforma e a definição do projeto. O segundo grupo, composto de 4 alunos, teria como objetivo participar das próximas 3 aulas, dando início, desenvolvimento e fechamento do projeto. Esse último grupo teria um aluno a mais, justamente para dar mais suporte aos participantes do curso, visto que a parte de desenvolvimento pode demandar mais trabalho. 
+
+O primeiro grupo será composto por:
+- Octávio
+- Gabriel
+- João
+
+Os participantes desse grupo vão passar a parte básica da engine para os alunos, nas três primeiras aulas. As aulas começaram como um bate-papo para conhecermos os alunos, gostos e interesses de cada um e, também, qual o nível deles nessa área. Após isso, será iniciado a parte de conteúdo, explicando os princípios básicos do desenvolvimento de jogos (como cenas, coordenadas, câmeras, colisões, etc).
+O grupo ficou dividido da seguinte maneira: 
+- Gabriel: parte de conhecer mais sobre os alunos, responsável pelas partes mais introdutórias.
+- Octávio: responsável pela parte mais técnica, sobre como usar as ferramentas da engine e os fundamentos básico da lógica.
+- João: responsável pelo suporte aos alunos, assim, podendo atender dúvidas e dificuldades de cada um de forma mais personalizada.
+
+Para auxílio dos alunos, está sendo preparado um documento que contém links para tutoriais onde possam usar como referência para o desenvolvimento do projeto.
