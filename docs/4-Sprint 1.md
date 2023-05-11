@@ -22,7 +22,7 @@ Aula 2: Essa aula será uma continuação da primeira, com base no nível de apr
 
 Aula 3: Continuação da atividade anterior e definição de projeto. Cada aluno vai desenvolver um projeto individualmente, porém com auxílio sempre que precisar. 
 
-Aula 4: Com os projetos já definidos, trabalharemos com os alunos para ajuda-los à fundamentarem as ideias para seus projetos. Os auxíliando sempre que necessário.
+Aula 4: Com os projetos já definidos, trabalharemos com os alunos para ajuda-los à fundamentarem as ideias para seus projetos. 
 
 Aula 5: Continuação do desenvolvimento do projeto.
 
