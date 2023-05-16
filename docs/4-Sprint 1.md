@@ -28,7 +28,7 @@ Aula 5: Continuação do desenvolvimento do projeto.
 
 Aula 6: Finalização e apresentação dos projetos desenvolvidos ao longo do curso. Com uma última roda de conversa para encerrar as aulas.
 
-Inicialmente temos a ideia de dividir nosso grupo em 2 pequenos sub grupos a fim de equilibrar as tarefas e ministrações em sala de aula. O primeiro grupo, composto de 3 alunos, teria como objetivo participar das primeiras três aula s(22/05 , 24/05 e 29/05), com a introdução à plataforma e a definição do projeto. O segundo grupo, composto de 4 alunos, teria como objetivo participar das próximas 3 aulas (31/05 , 05/06 e 07/06 ), dando início, desenvolvimento e fechamento do projeto. Esse último grupo teria um aluno a mais, justamente para dar mais suporte aos participantes do curso, visto que a parte de desenvolvimento pode demandar mais trabalho. Dessa forma,  todos os integrantes do grupo participarão 3 vezes das aulas, assim como proposto.
+Inicialmente temos a ideia de dividir nosso grupo em 2 pequenos sub grupos a fim de equilibrar as tarefas e ministrações em sala de aula. O primeiro grupo, composto de 3 alunos, teria como objetivo participar das primeiras três aulas (22/05 , 24/05 e 29/05), com a introdução à plataforma e a definição do projeto. O segundo grupo, composto de 4 alunos, teria como objetivo participar das próximas 3 aulas (31/05 , 05/06 e 07/06 ), dando início, desenvolvimento e fechamento do projeto. Esse último grupo teria um aluno a mais, justamente para dar mais suporte aos participantes do curso, visto que a parte de desenvolvimento pode demandar mais trabalho. Dessa forma,  todos os integrantes do grupo participarão 3 vezes das aulas, assim como proposto.
 
 O primeiro grupo será composto por:
 - Octávio
