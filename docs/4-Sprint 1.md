@@ -68,3 +68,4 @@ Primeiras 3 aulas (22/05 , 24/05 e 29/05):
    - Proximidade dos alunos com jogos.
  
  - O que são engines?
+ No mundo da computação, existe uma área conhecida como área de desenvolvimento. Nesse campo é onde são criados sites, softwares e programas de computador.
