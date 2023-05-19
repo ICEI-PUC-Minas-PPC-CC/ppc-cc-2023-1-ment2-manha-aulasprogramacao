@@ -61,3 +61,8 @@ Primeiras 3 aulas (22/05 , 24/05 e 29/05):
    - O que será visto ao longo das aulas.
 
 - Pequena roda de conversas abordando assuntos sobre programação entendendo o nível de proximidade dos participantes com a mesma:
+   - O que entendem como programação;
+   - Já tiveram a oportunidade/curiosidade de aprender ou mexer com programação?;
+   - Se sim, gostaram?;
+   - Pretendem seguir alguma carreira na área de tecnologia quando crescerem?;
+   - Proximidade dos alunos com jogos.
