@@ -51,3 +51,6 @@ Os participantes desse grupo terão a responsabilidade de orientar os alunos em 
 
 Para auxílio dos alunos, está sendo preparado um documento que contém links para tutoriais onde possam usar como referência para o desenvolvimento do projeto. 
 Nas aulas iniciais, também terão atividades práticas, para que os alunos possam exercitar o conteúdo visto.
+
+Primeiras 3 aulas (22/05 , 24/05 e 29/05):
+
