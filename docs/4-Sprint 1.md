@@ -34,6 +34,7 @@ Primeiras 3 aulas (22/05 , 24/05 e 29/05) - Gabriel:
         Proximidade dos alunos com jogos.
 
     O que são engines? No mundo da computação, existe uma área conhecida como área de desenvolvimento. Nesse campo é onde são criados sites, softwares e programas de computador. Google, instagram, facebook, whatsapp e muitos outros aplicativos e programas são realizados nessa área, e até mesmo jogos. Quando falamos da criação de um jogo, nós precisamos usar as engines. Essa é uma palavra em inglês, que significa motor. As engines são programas de computador usados para construir e criar jogos. Existem diversos tipos de engines, algumas são pagas, outras são gratuitas e cada uma com as suas vantagens e desvantagens diferentes.
+  - O que são e como funcionam as coordenadas?
 
 Para o decorrer das nossas aulas utilizaremos uma engine conhecida como Gdevelop, é um programa gratuito e de fácil aprendizado que veremos daqui a pouco.
 
