@@ -18,23 +18,27 @@ Data	Aula	Descrição do conteúdo a ser abordado	Tempo necessário
 
 Aula 1: Será uma introdução do que será visto no decorrer dos encontros. O principal foco dessa aula será o uso da ferramenta, onde será visto como iniciar um projeto, como adicionar objetos na cena, como trabalhar com condições, etc. A ideia da aula será preparar os alunos para desenvolverem o projeto de forma mais independente. Para isso, vamos desenvolver um jogo junto com os alunos, assim poderão entender melhor com a prática. Além disso, faremos uma pequena roda de conversas, próxima de um bate-papo, para entender mais sobre os participantes e suas experiências na área de progamação, afim também de estabelecer uma comunicação e criar uma conexão com eles.
 
-Primeiras 3 aulas (22/05 , 24/05 e 29/05) - Gabriel:
+Aula 1 22/05 - Gabriel:
 
- Apresentação aos alunos:
-        Quem somos;
-        O que vamos fazer;
-        Como será o curso;
-        O que será visto ao longo das aulas.
+ - Apresentação aos alunos:
+     - Quem somos;
+     - O que vamos fazer;
+     - Como será o curso;
+     - O que será visto ao longo das aulas.
 
-   Pequena roda de conversas abordando assuntos sobre programação entendendo o nível de proximidade dos participantes com a mesma:
-  O que entendem como programação;
-  
-  Já tiveram a oportunidade/curiosidade de aprender ou mexer com programação?;
-        Se sim, gostaram?;
-        Pretendem seguir alguma carreira na área de tecnologia quando crescerem?;
-        Proximidade dos alunos com jogos.
-O que são engines? No mundo da computação, existe uma área conhecida como área de desenvolvimento. Nesse campo é onde são criados sites, softwares e programas de computador. Google, instagram, facebook, whatsapp e muitos outros aplicativos e programas são realizados nessa área, e até mesmo jogos. Quando falamos da criação de um jogo, nós precisamos usar as engines. Essa é uma palavra em inglês, que significa motor. As engines são programas de computador usados para construir e criar jogos. Existem diversos tipos de engines, algumas são pagas, outras são gratuitas e cada uma com as suas vantagens e desvantagens diferentes.
+ - Pequena roda de conversas abordando assuntos sobre programação entendendo o nível de proximidade dos participantes com a mesma:
+ 
+     - O que entendem como programação;
+     - Já tiveram a oportunidade/curiosidade de aprender ou mexer com programação?;
+     - Se sim, gostaram?;
+     - Pretendem seguir alguma carreira na área de tecnologia quando crescerem?;
+     - Proximidade dos alunos com jogos.
+        
+  - O que são engines? 
+No mundo da computação, existe uma área conhecida como área de desenvolvimento. Nesse campo é onde são criados sites, softwares e programas de computador. Google, instagram, facebook, whatsapp e muitos outros aplicativos e programas são realizados nessa área, e até mesmo jogos. Quando falamos da criação de um jogo, nós precisamos usar as engines. Essa é uma palavra em inglês, que significa motor. As engines são programas de computador usados para construir e criar jogos. Existem diversos tipos de engines, algumas são pagas, outras são gratuitas e cada uma com as suas vantagens e desvantagens diferentes.
+
   - O que são e como funcionam as coordenadas?
+As coordenadas são conhecidas como eixos de orientação ou dimensões. No mundo dos jogos, podemos dizer que existem dois tipos de jogos diferentes: os jogos 2D e os jogos 3D. Os jogos 2D trabalham com apenas duas dimensões. Basicamente, nesse tipo de jogo só conseguimos mover o personagem para cima e para baixo e de um lado para o outro e, geralmente, temos uma perspectiva lateral de câmera. Jogos como Among Us e Super Mario Bros são exemplos de jogos 2D.
   
 
 Para o decorrer das nossas aulas utilizaremos uma engine conhecida como Gdevelop, é um programa gratuito e de fácil aprendizado que veremos daqui a pouco.
