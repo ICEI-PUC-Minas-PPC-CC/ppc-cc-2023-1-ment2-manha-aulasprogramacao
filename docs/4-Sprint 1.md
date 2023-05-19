@@ -60,3 +60,4 @@ Primeiras 3 aulas (22/05 , 24/05 e 29/05):
    - Como será o curso;
    - O que será visto ao longo das aulas.
 
+- Pequena roda de conversas abordando assuntos sobre programação entendendo o nível de proximidade dos participantes com a mesma:
