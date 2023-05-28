@@ -15,5 +15,9 @@ A imagem acima mostra a parte lógica do jogo, que será ensinada aos alunos.
 
 Captura de tela do jogo
 
+![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/116819296/d598479d-cec2-4aea-b096-89b0d9f210a3)
+
+Edição da cena do jogo, onde são definidos objetos e level design
+
 
 
