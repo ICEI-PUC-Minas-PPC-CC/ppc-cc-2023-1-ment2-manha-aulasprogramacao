@@ -1,6 +1,4 @@
-# Conteúdo Primeiras Aulas (1, 2 e 3) em detalhes
-
-## Jogo Desenvolvido
+## Documentação do Primeiro Jogo
 
 ### Caramelo Em Busca dos Hot Dogs Perdidos
 
@@ -16,6 +14,6 @@ A imagem acima mostra a parte lógica do jogo, que será ensinada aos alunos.
 ![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/116819296/7e6e84bb-c65d-4eb9-bb3e-a857dfc76d0d)
 
 Captura de tela do jogo
-## Aula 1:
+
 
 
