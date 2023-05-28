@@ -38,7 +38,9 @@ Aula 1 22/05 - Gabriel:
 No mundo da computação, existe uma área conhecida como área de desenvolvimento. Nesse campo é onde são criados sites, softwares e programas de computador. Google, instagram, facebook, whatsapp e muitos outros aplicativos e programas são realizados nessa área, e até mesmo jogos. Quando falamos da criação de um jogo, nós precisamos usar as engines. Essa é uma palavra em inglês, que significa motor. As engines são programas de computador usados para construir e criar jogos. Existem diversos tipos de engines, algumas são pagas, outras são gratuitas e cada uma com as suas vantagens e desvantagens diferentes.
 
   - O que são e como funcionam as coordenadas?
-As coordenadas são conhecidas como eixos de orientação ou dimensões. No mundo dos jogos, podemos dizer que existem dois tipos de jogos diferentes: os jogos 2D e os jogos 3D. Os jogos 2D trabalham com apenas duas dimensões. Basicamente, nesse tipo de jogo só conseguimos mover o personagem para cima e para baixo e de um lado para o outro e, geralmente, temos uma perspectiva lateral de câmera. Jogos como Among Us e Super Mario Bros são exemplos de jogos 2D.
+As coordenadas são conhecidas como eixos de orientação ou dimensões. No mundo dos jogos, podemos dizer que existem dois tipos de jogos diferentes: os jogos 2D e os jogos 3D. 
+
+Os jogos 2D trabalham com apenas duas dimensões. Basicamente, nesse tipo de jogo só conseguimos mover o personagem para cima e para baixo e de um lado para o outro e, geralmente, temos uma perspectiva lateral de câmera. Jogos como Among Us e Super Mario Bros são exemplos de jogos 2D.
 
 Já os jogos 3D, trabalham com 3 dimensões. Além de movermos o personagem de cima para baixo e de um lado para o outro também conseguimos navegar pela profundidade. Ness estilo de jogo, tamos uma perspectiva imersiva de câmera, como se estivéssemos tendo a visão do personagem. Fortnite e minecraft são jogos do estilo 3D.
   
