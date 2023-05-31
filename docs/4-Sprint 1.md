@@ -63,7 +63,7 @@ O primeiro grupo será composto por:
 - Gabriel
 - João
 
-Os participantes desse grupo vão passar a parte básica da engine para os alunos, nas três primeiras aulas. As aulas começaram como um bate-papo para conhecermos os alunos, gostos e interesses de cada um e, também, qual o nível deles nessa área. Após isso, será iniciado a parte de conteúdo, explicando os princípios básicos do desenvolvimento de jogos (como cenas, coordenadas, câmeras, colisões, etc).
+Os participantes desse grupo vão passar a parte básica da engine para os alunos, nas três primeiras aulas. As aulas começarão como um bate-papo para conhecermos os alunos, gostos e interesses de cada um e, também, qual o nível deles nessa área. Após isso, será iniciado a parte de conteúdo, explicando os princípios básicos do desenvolvimento de jogos (como cenas, coordenadas, câmeras, colisões, etc).
 O grupo ficou dividido da seguinte maneira: 
 - Gabriel: parte de conhecer mais sobre os alunos, responsável pelas partes mais introdutórias.
 - Octávio: responsável pela parte mais técnica, sobre como usar as ferramentas da engine e os fundamentos básico da lógica.
