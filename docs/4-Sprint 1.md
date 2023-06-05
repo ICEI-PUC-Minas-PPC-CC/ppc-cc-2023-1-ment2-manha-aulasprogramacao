@@ -35,7 +35,7 @@ Aula 1 22/05 - Gabriel:
      - Proximidade dos alunos com jogos.
         
   - O que são engines? 
-No mundo da computação, existe uma área conhecida como área de desenvolvimento. Nesse campo é onde são criados sites, softwares e programas de computador. Google, instagram, facebook, whatsapp e muitos outros aplicativos e programas são realizados nessa área, e até mesmo jogos. Quando falamos da criação de um jogo, nós precisamos usar as engines. Essa é uma palavra em inglês, que significa motor. As engines são programas de computador usados para construir e criar jogos. Existem diversos tipos de engines, algumas são pagas, outras são gratuitas e cada uma com as suas vantagens e desvantagens diferentes.
+No mundo da computação, existe uma área conhecida como área de desenvolvimento. Nesse campo é onde são criados sites, softwares e programas de computador. Google, instagram, facebook, whatsapp e muitos outros aplicativos e programas são realizados nessa área, e até mesmo jogos. Quando falamos da criação de um jogo, nós precisamos usar as engines. Essa é uma palavra em inglês, que significa motor. As engines são programas de computador usados para construir e criar jogos. Existem diversos tipos de engines, algumas são pagas, outras são gratuitas e cada uma com as suas vantagens e desvantagens diferentes
 
   - O que são e como funcionam as coordenadas?
 As coordenadas são conhecidas como eixos de orientação ou dimensões. No mundo dos jogos, podemos dizer que existem dois tipos de jogos diferentes: os jogos 2D e os jogos 3D. 
