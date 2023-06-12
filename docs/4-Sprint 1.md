@@ -82,5 +82,7 @@ Nas aulas iniciais, também terão atividades práticas, para que os alunos poss
 
 Link para os slides sobre o desenvolvimento do primeiro jogo: https://www.canva.com/design/DAFjQ6tsA3I/dpkyNmtlbTs7xkCspm7Gcg/edit?utm_content=DAFjQ6tsA3I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+Link para os slides sobre o desenvolvimento
+
 link com o projeto do jogo: https://1drv.ms/u/s!AoZlolEHEgLzuRpWdhL65goT8zCH?e=5cOeJO
 
