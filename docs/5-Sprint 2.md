@@ -4,7 +4,7 @@ Dia 19/06 - Aula 1
 Alunos participantes: Gabriel, João Henrique e Octávio.
 
 
-(https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/c2a701a9-1575-4e8a-b442-4e6471999b4d)
+
 ![WhatsApp Image 2023-06-19 at 21 56 02](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/d008afca-eef9-4a6e-97ad-86c172dd2cbf)
 ![WhatsApp Image 2023-06-19 at 21 56 01](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/344ab238-a0c3-4b12-beef-a0ef27e7d82a)
 ![WhatsApp Image 2023-06-19 at 21 56 03](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/0e97fe89-129f-44c6-9c3f-9e86d949b527)
