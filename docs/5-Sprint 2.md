@@ -4,18 +4,12 @@ Dia 19/06 - Aula 1
 Alunos participantes: Gabriel, João Henrique e Octávio.
 
 
-[WhatsApp Image 2023-06-19 at 21 56 02](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/80a476a8-ad75-4c34-82f5-b04b73f62bf1)![WhatsApp Image 2023-06-19 at 21 56 01](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/c2a701a9-1575-4e8a-b442-4e6471999b4d)
+(https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/c2a701a9-1575-4e8a-b442-4e6471999b4d)
+![WhatsApp Image 2023-06-19 at 21 56 02](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/d008afca-eef9-4a6e-97ad-86c172dd2cbf)
+![WhatsApp Image 2023-06-19 at 21 56 01](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/344ab238-a0c3-4b12-beef-a0ef27e7d82a)
+![WhatsApp Image 2023-06-19 at 21 56 03](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/0e97fe89-129f-44c6-9c3f-9e86d949b527)
+![WhatsApp Image 2023-06-19 at 21 56 03 (1)](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/fe031120-3a04-4b09-9211-04e7a31475a0)
+![WhatsApp Image 2023-06-19 at 21 56 03 (2)](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/45a369ae-d657-4f6b-8ebf-af002e318b1e)
+![WhatsApp Image 2023-06-19 at 21 56 04](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/e0a1a7b6-2d49-45ad-b135-2cad0d1aaae4)
+![WhatsApp Image 2023-06-19 at 21 56 02](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/c4217e3c-1c29-4a83-b889-db6f29bbf4e7)
 
-efinidos e os resultados alcançados, entre outras percepções do grupo.
-![WhatsApp Image 2023-06-19 at 21 56 03 (1)](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/890d74de-dbc0-488b-8c51-d103e92ea2f0)
-![WhatsApp Image 2023-06-19 at 21 56 03 (2)](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/a791717e-ea50-4fa5-8a32-229530b48695)
-![WhatsApp Image 2023-06-19 at 21 56 04](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/81cfc28a-7721-4f61-acf9-b8774f3992e8)
-![WhatsApp Image 2023-06-19 at 21 56 03](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/44f5093d-7fa5-44a5-b0d4-5308f71c57df)
-
-Atualizar o repositório no GitHub na seção relacionada à Sprint 2.
-
-Fazer download do repositório e enviar o .zip via Canvas.
-
-Além disso, preencher a ficha de avaliação interna do grupo disponível no Canvas e anexá-la, apenas no Canvas (não a incluam aqui repositório do GitHub, por favor).
-
-Quaisquer dúvidas, me escrevam.
