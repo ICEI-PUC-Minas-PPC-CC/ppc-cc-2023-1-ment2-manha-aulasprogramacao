@@ -23,6 +23,24 @@ porém em outros computadores, já que fica salvo na nuvem.
 
 Sobre o primeiro dia da prática extensionista, concluimos que obtivemos grande sucesso. Os alunos inscritos no curso apresentaram grande interesse ao tema proposto, colaborando e interagindo bastante ao longo do desenvolvimento da aula. Foi abordado durante a apresentação, a criação e construção do primeiro jogo ao qual nós havíamos preparado. Contudo, por conta do tempo um pouco limitado e das eventuais dúvidas que surgiam dos participantes em relação à prática , não conseguimos terminar o primeiro projeto a tempo, levando-nos a remodelar o planejamento para o segundo encontro. Em relação aos projetos criados pelos participantes, todos conseguiram acompanhar a ministração e se mostraram empenhados em continuar na próxima aula.
 
+## Persepções Pessoais
+
+Gabriel:
+Em relação ao projeto extensionista de desenvolvimento de jogos digitais, podemos concluir que obtivemos um grande sucesso. Os alunos inscritos
+no curso se mostraram bastante entusiasmados e interessados ao tema, colaborando e mostrando muita interatividade ao decorrer da aula. Várias 
+dúvidas surgiram ao longo da ministração e nós estávamos sempre empenhados em ajudá-los. Sobre os projetos criados pelos próprios participantes,
+acredito que todos tenham entendido muito bem a proposta de desenvolvimento e se mostraram dispostos em continuá-los no próximo encontro. Ao fim,
+a expectativa é de que tenhamos conseguido despertar um interesse dos participantes pela área de programação como um todo e de que sirva de entrada para o mundo da tecnologia .
+
+João:
+Sobre o projeto, o funcionamento tanto quanto da nossa parte ,quanto na colaboração dos alunos foi um sucesso, o desempenho deles em questão de aprendizado e disciplina durante o nosso tempo juntos foi muito bom, conseguiram absorver bem o projeto que passamos, estavam bem comprometidos do início ao fim, nos trazendo diversas dúvidas e  desenvolvendo de forma excelente a proposta de jogo que trouxemos à eles.
+A expectativa é que ao final do projeto, após aprenderem os diversos métodos de criação que serão passadas durante o nosso tempo em sala, forme mais interesse na parte da programação, e que não fique somente como mais uma aula, e sim uma porta de entrada para  continuar a prática na área que idealizamos para eles.
+
+Octávio: 
+Gostei muito dessa nova experiência. Mesmo com os contratempos no decorrer do projeto, acredito que fizemos um bom trabalho e que conseguimos concluir nosso objetivo, que era dar essa introdução aos alunos. Preciso melhorar em alguns pontos, como preparo para as aulas, mas acredito que isso mehore conforme ganho experiência. Sinto que tivebos bons resultados e tudo ocorreu como o planejado.
+Não tivemos problemas na execução do projeto.
+
+Ao longo do projeto, surgiram várias difuldades, principalmente por conta do tempo disponível e horários. Com isso, precisamos adaptar nosso cronograma planejado anteriormente.
 
 
 https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/f0344b92-e811-4ac6-b8cc-5a4a2b3f01ca
