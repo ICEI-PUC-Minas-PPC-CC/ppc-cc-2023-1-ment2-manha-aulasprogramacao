@@ -3,7 +3,7 @@
 Dia 19/06 - Aula 1
 Alunos participantes: Gabriel, João Henrique e Octávio.
 
-Sobre o primeiro dia da prática extensionista, concluimos que obtivemos grande sucesso. Os alunos inscritos no curso apresentaram grande interesse ao tema proposto, colaborando e interagindo bastante ao longo do desenvolvimento da aula. Foi abordado durante a apresentação, a criação e construção do primeiro jogo ao qual nós havíamos preparado. Contudo, por conta do tempo um pouco limitado e das eventuais dúvidas que surgiam dos participantes em relação à prática , não conseguimos terminar o primeiro projeto a tempo, levando-nos a remodelar o planejamento para o segundo encontro. Em realação os projetos criados pelos participantes, todos conseguiram acompanhar a ministração e se mostraram empenhados em continuar no próximo encontro.
+Sobre o primeiro dia da prática extensionista, concluimos que obtivemos grande sucesso. Os alunos inscritos no curso apresentaram grande interesse ao tema proposto, colaborando e interagindo bastante ao longo do desenvolvimento da aula. Foi abordado durante a apresentação, a criação e construção do primeiro jogo ao qual nós havíamos preparado. Contudo, por conta do tempo um pouco limitado e das eventuais dúvidas que surgiam dos participantes em relação à prática , não conseguimos terminar o primeiro projeto a tempo, levando-nos a remodelar o planejamento para o segundo encontro. Em relação aos projetos criados pelos participantes, todos conseguiram acompanhar a ministração e se mostraram empenhados em continuar na próxima aula.
 
 
 
