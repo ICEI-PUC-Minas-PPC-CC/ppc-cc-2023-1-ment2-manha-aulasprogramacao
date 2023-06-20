@@ -80,13 +80,15 @@ Os participantes desse grupo terão a responsabilidade de orientar os alunos em 
 Para auxílio dos alunos, está sendo preparado um documento que contém links para tutoriais onde possam usar como referência para o desenvolvimento do projeto. 
 Nas aulas iniciais, também terão atividades práticas, para que os alunos possam exercitar o conteúdo visto.
 
-PDF e Link para os slides sobre o desenvolvimento do primeiro jogo:
+PDF e link para os slides sobre o desenvolvimento do primeiro jogo:
 
 [Game On.pdf](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/files/11807559/Game.On.pdf)
 
 https://www.canva.com/design/DAFjQ6tsA3I/dpkyNmtlbTs7xkCspm7Gcg/edit?utm_content=DAFjQ6tsA3I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Link para os slides sobre o desenvolvimento do segundo jogo: 
+PDF E link para os slides sobre o desenvolvimento do segundo jogo: 
+
+[Game On 2.pdf](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/files/11807573/Game.On.2.pdf)
 
 https://www.canva.com/design/DAFljl_dvFo/dLrnTnGvdgFEHshRHPZkvA/edit?utm_content=DAFljl_dvFo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
