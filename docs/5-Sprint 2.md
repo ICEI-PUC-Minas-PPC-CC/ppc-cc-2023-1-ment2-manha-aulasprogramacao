@@ -11,5 +11,5 @@ Alunos participantes: Gabriel, João Henrique e Octávio.
 ![WhatsApp Image 2023-06-19 at 21 56 03 (1)](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/fe031120-3a04-4b09-9211-04e7a31475a0)
 ![WhatsApp Image 2023-06-19 at 21 56 03 (2)](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/45a369ae-d657-4f6b-8ebf-af002e318b1e)
 ![WhatsApp Image 2023-06-19 at 21 56 04](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/e0a1a7b6-2d49-45ad-b135-2cad0d1aaae4)
-![WhatsApp Image 2023-06-19 at 21 56 02](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/c4217e3c-1c29-4a83-b889-db6f29bbf4e7)
+
 
