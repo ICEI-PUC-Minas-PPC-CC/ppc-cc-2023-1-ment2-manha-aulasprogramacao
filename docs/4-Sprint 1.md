@@ -86,7 +86,7 @@ PDF e link para os slides sobre o desenvolvimento do primeiro jogo:
 
 https://www.canva.com/design/DAFjQ6tsA3I/dpkyNmtlbTs7xkCspm7Gcg/edit?utm_content=DAFjQ6tsA3I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-PDF E link para os slides sobre o desenvolvimento do segundo jogo: 
+PDF e link para os slides sobre o desenvolvimento do segundo jogo: 
 
 [Game On 2.pdf](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/files/11807573/Game.On.2.pdf)
 
