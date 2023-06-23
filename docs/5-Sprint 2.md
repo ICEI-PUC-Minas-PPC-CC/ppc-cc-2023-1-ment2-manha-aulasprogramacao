@@ -53,4 +53,18 @@ https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprograma
 ![WhatsApp Image 2023-06-19 at 21 56 03 (2)](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/45a369ae-d657-4f6b-8ebf-af002e318b1e)
 ![WhatsApp Image 2023-06-19 at 21 56 04](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/e0a1a7b6-2d49-45ad-b135-2cad0d1aaae4)
 
+2° Dia
+![WhatsApp Image 2023-06-23 at 12 31 16](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/731bd11f-f9b6-4d89-93fe-e7955186e3e7)
+
+
+https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aula
+
+https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/c7f669d0-ca3a-4683-9bc8-2d730ae0e7f0
+
+sprogramacao/assets/103225433/a9ee41a4-09c4-4ede-9a79-265d32d07b7b
+
+
+
+https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-manha-aulasprogramacao/assets/103225433/fa8f9315-2e20-44d9-bba0-8c14c3d2ddd4
+
 
