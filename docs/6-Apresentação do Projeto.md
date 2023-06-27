@@ -14,3 +14,6 @@ O grupo deve ter o cuidado em utilizar figuras, imagens e cores dentro do contex
 
 ## Pitch de apresentação
 
+Link do Vídeo
+https://drive.google.com/file/d/17s4iHAdeqCrMcCblNZfXe_GVkXX0OYy-/view?usp=sharing
+
